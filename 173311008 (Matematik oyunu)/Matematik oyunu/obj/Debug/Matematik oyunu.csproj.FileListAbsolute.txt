@@ -1,0 +1,29 @@
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.exe.config
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.exe
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\bin\Debug\Matematik oyunu.pdb
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Form1.resources
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Form2.resources
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik_oyunu.Properties.Resources.resources
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.exe
+C:\Users\Ali\source\repos\Matematik oyunu\Matematik oyunu\obj\Debug\Matematik oyunu.pdb
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik_oyunu.Form1.resources
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik_oyunu.Form2.resources
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik_oyunu.Properties.Resources.resources
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.exe
+C:\Users\Ali\source\repos\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.pdb
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik_oyunu.Form1.resources
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik_oyunu.Form2.resources
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik_oyunu.Properties.Resources.resources
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.exe
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\obj\Debug\Matematik oyunu.pdb
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\bin\Debug\Matematik oyunu.exe.config
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\bin\Debug\Matematik oyunu.exe
+C:\Users\Ali\source\repos\c# küçük oyunlar\173311008 (Matematik oyunu)\Matematik oyunu\bin\Debug\Matematik oyunu.pdb

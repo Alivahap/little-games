@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\bin\Debug\HafızaOyunu2.exe.config
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\bin\Debug\HafızaOyunu2.exe
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\bin\Debug\HafızaOyunu2.pdb
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.Form1.resources
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.Properties.Resources.resources
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.exe
+C:\Users\Ali\source\repos\HafızaOyunu2\HafızaOyunu2\obj\Debug\HafızaOyunu2.pdb

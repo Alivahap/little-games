@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\bin\Debug\SayıBulma.exe.config
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\bin\Debug\SayıBulma.exe
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\bin\Debug\SayıBulma.pdb
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.Form1.resources
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.Properties.Resources.resources
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.exe
+C:\Users\Ali\source\repos\SayıBulma\SayıBulma\obj\Debug\SayıBulma.pdb
